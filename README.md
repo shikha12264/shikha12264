@@ -10,10 +10,10 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shikha12264)](https://github.com/shikha12264/github-readme-stats&show_icons=true&theme=dark)
 
 <a href="https://github.com/shikha12264/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikha12264&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikha12264&repo=Covid-19-NGO-Website-HTML-CSS-JAVASCRIPT-" />
 </a>
 <a href="https://github.com/shikha12264/Covid-19-NGO-Website-HTML-CSS-JAVASCRIPT-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikha12264&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikha12264&repo=Spiderbot-in-python" />
 </a>
 
 
