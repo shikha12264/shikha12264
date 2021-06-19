@@ -9,7 +9,7 @@ I'm Shikha Singh a Computer Science undergrad at Ruia College from Mumbai!!
     
     
    ![Shikha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shikha12264&show_icons=true&theme=radical)
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shikha12264)](https://github.com/shikha12264/github-readme-stats)
 
 
 
