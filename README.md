@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-## I'm a Computer Science undergrad pursuing my Bachelor's degree at Ruia College from Mumbai!!
+## I'm a Computer Science undergrad👩‍💻 pursuing my Bachelor's degree at Ruia College from Mumbai!!
 ### 🌱 I’m currently learning everything 🤣
 ### 👯 I’m looking forward to collaborate with other organisations.
 ### 🚀 2021 Goals: Contribute more to Open Source projects
