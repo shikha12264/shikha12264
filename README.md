@@ -8,6 +8,6 @@ I'm Shikha Singh a Computer Science undergrad at Ruia College from Mumbai!!
     ⚡ Fun fact: I am a dancer by passion & a foodie as well🍕😂!
     
     
-   ![Shikha's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+   ![Shikha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shikha12264&show_icons=true&theme=radical)
 
 
