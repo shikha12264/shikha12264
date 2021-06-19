@@ -10,4 +10,4 @@
 
 ## Connect me 
 
-<img src= "linkedin.png" alt = "Linkedin" href = "https://www.linkedin.com/in/shikha-singh-905b431a6/"/>
+<img src= "icons/linkedin.png" alt = "Linkedin" href = "https://www.linkedin.com/in/shikha-singh-905b431a6/"/>
