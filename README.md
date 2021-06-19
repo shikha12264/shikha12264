@@ -1,4 +1,4 @@
-### Hi there 👋
+## Heythere 👋
 
 ## I'm a Computer Science undergrad pursuing my Bachelor's degree at Ruia College from Mumbai!!
 ### 🌱 I’m currently learning everything 🤣
