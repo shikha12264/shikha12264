@@ -12,7 +12,7 @@
 <a href="https://github.com/shikha12264/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikha12264&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/shikha12264/convoychat">
+<a href="https://github.com/shikha12264/Covid-19-NGO-Website-HTML-CSS-JAVASCRIPT-">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikha12264&repo=convoychat" />
 </a>
 
