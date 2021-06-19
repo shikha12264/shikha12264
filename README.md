@@ -10,5 +10,5 @@
 
 ## Connect me 
 
-<img src= "icons/linkedin.PNG" alt = "Linkedin" href = "https://www.linkedin.com/in/shikha-singh-905b431a6/"/>
+<img  alt = "Linkedin" href = "https://www.linkedin.com/in/shikha-singh-905b431a6/"/>
 <img src= "icons/github.PNG" alt = "Github" href = "https://github.com/shikha12264"/>
