@@ -9,3 +9,5 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shikha12264&layout=compact)](https://github.com/shikha12264/github-readme-stats)
 
 ## Connect me 
+
+<img src= "" alt = "Linkedin" href = "https://www.linkedin.com/in/shikha-singh-905b431a6/"/>
