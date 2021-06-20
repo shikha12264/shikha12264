@@ -12,3 +12,4 @@
 
 <a href = "https://www.linkedin.com/in/shikha-singh-905b431a6/"><img src= "icons/linkedin.PNG" alt = "Linkedin"/> </a>
 <a href = "https://github.com/shikha12264"> <img src= "icons/github.PNG" alt = "Github"/></a>
+<a href = "https://github.com/shikha12264"> <img src = "icons/youtube.PNG" alt = "Youtube"</a>
